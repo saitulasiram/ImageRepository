@@ -1,5 +1,12 @@
 {
-  "version": "20250516",
+  "version": "20250517",
+  "configVersions": {
+    "mvi_app_config.json": "20250716",
+    "mvifaq.json": "20250715",
+    "device_tsc_config.json": "20250711",
+    "mvdcontactslist.json": "20250713",
+    "mvd_app_train_number.json": "20250712"
+  },
   "configurations": [
     {
       "sub_version": "20230620",
@@ -2001,11 +2008,6 @@
             "rtno": "888",
             "loc": "PABT",
             "tarifftype": "Interstate"
-          },
-           {
-            "rtno": "999",
-            "loc": "PABT",
-            "tarifftype": "Interstate"
           }
         ],
         "gates": [
@@ -2195,5 +2197,6 @@
   "grayListIntervalHours": 22,
   "deltaGrayListIntervalMinutes": 120,
   "enableGrayListCheck": true,
-  "enableHotListCheck": false
+  "enableHotListCheck": false,
+  "farecardPassbackDurationMinutes": 15
 }
