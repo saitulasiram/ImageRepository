@@ -1,11 +1,11 @@
 {
-  "version": "20250517",
+  "version": "20250515",
   "configVersions": {
-    "mvi_app_config.json": "20250716",
-    "mvifaq.json": "20250715",
-    "device_tsc_config.json": "20250711",
-    "mvdcontactslist.json": "20250713",
-    "mvd_app_train_number.json": "20250712"
+    "mvi_app_config.json": "20250715",
+    "mvifaq.json": "15.0",
+    "device_tsc_config.json": "20250621",
+    "mvdcontactslist.json": "2.0",
+    "mvd_app_train_number.json": "202505010"
   },
   "configurations": [
     {
