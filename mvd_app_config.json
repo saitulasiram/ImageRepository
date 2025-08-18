@@ -1,11 +1,11 @@
 {
   "version": "20250515",
   "configVersions": {
-    "mvi_app_config.json": "20250715",
+    "mvi_app_config.json": "20250515",
     "mvifaq.json": "15.0",
     "device_tsc_config.json": "20250621",
     "mvdcontactslist.json": "2.0",
-    "mvd_app_train_number.json": "202505010"
+    "mvd_app_train_number.json": "20250510"
   },
   "configurations": [
     {
@@ -2200,3 +2200,4 @@
   "enableHotListCheck": false,
   "farecardPassbackDurationMinutes": 15
 }
+
