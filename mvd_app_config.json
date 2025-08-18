@@ -1,5 +1,6 @@
 {
   "version": "20250515",
+  "secretKey" :  "(1@MviAppSecretKey@#)-MID-MVD$%$",
   "configVersions": {
     "mvi_app_config.json": "20250515",
     "mvifaq.json": "15.0",
@@ -2200,4 +2201,5 @@
   "enableHotListCheck": false,
   "farecardPassbackDurationMinutes": 15
 }
+
 
