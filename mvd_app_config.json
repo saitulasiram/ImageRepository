@@ -5,7 +5,7 @@
     "mvifaq": "16.0",
     "device_tsc_config": "20250819",
     "mvdcontactslist": "3.0",
-    "mvd_app_train_number": "20250819",
+    "mvd_app_train_number": "20250819"
     
   },
   "emp_secret_key": "(1@MviAppSecretKey@#)-MID-MVD$%$",
@@ -2202,4 +2202,5 @@
   "enableHotListCheck": false,
   "farecardPassbackDurationMinutes": 15
 }
+
 
