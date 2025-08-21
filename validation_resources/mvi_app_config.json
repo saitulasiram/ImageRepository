@@ -3,7 +3,7 @@
   "configVersions": {
     "mvi_app_config": "20250819",
     "mvifaq": "16.0",
-    "device_tsc_config": "20250820",
+    "device_tsc_config": "20250821",
     "mvdcontactslist": "3.0",
     "mvd_app_train_number": "20250819",
     "employee_data": "20250819"
@@ -2203,4 +2203,5 @@
   "farecardPassbackDurationMinutes": 15
 
 }
+
 
