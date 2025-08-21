@@ -1,0 +1,241 @@
+{
+"Version":"1.0",
+"contactList" : [
+   {
+      "key": "NJ TRANSIT POLICE DEPT",
+      "value": "1-800-242-0236"
+   },
+   {
+      "key": "AMTRAK POLICE DEPT",
+      "value": "1-800-331-0008"
+   },
+   {
+      "key": "AMNYPDISP",
+      "value": "212-630-7467"
+   },
+   {
+      "key": "AMPHILDISP",
+      "value": "215-349-2226"
+   },
+   {
+      "key": "AMTRAK DELAY CLERK",
+      "value": "212-630-7322"
+   },
+   {
+      "key": "ACTION UNIFORM COMPANY",
+      "value": "609-241-1576"
+   },
+   {
+      "key": "AMTRAK PHILA ACD",
+      "value": "215-349-2251"
+   },
+   {
+      "key": "BAYHEAD FOREMAN MECH",
+      "value": "732-714-5303"
+   },
+   {
+      "key": "BRIELLE BLOCK OPERATOR",
+      "value": "201-246-2989"
+   },
+   {
+      "key": "CETC 5 AMTRAK DISP",
+      "value": "215-349-2233"
+   },
+   {
+      "key": "CETC EIGHT",
+      "value": "212-630-6409"
+   },
+   {
+      "key": "CETC NINE",
+      "value": "212-630-6881"
+   },
+   {
+      "key": "CETC SEVEN",
+      "value": "212-630-6408"
+   },
+   {
+      "key": "CHIEF NJT DISPATCHER",
+      "value": "201-246-2780"
+   },
+   {
+      "key": "CETC 6 AMTRAK DISP",
+      "value": "215-349-2232"
+   },
+   {
+      "key": "CONRAIL NORTH JERSEY DISPATCHER",
+      "value": "856-231-2310"
+   },
+   {
+      "key": "CONRAIL NORTH JERSEY DISP ",
+      "value": "1-800-777-0273"
+   },
+   {
+      "key": "CONSIST MANAGEMENT",
+      "value": "201-246-2265"
+   },
+   {
+      "key": "CREW CALLER NEWARK DIV",
+      "value": "201-246-2963"
+   },
+      {
+      "key": "CREW CALLER NEWARK DIV",
+      "value": "1800-537-1168"
+   },
+   {
+      "key": "CREW CALLER HOBOKEN DIV",
+      "value": "201-246-2967"
+   },
+   {
+      "key": "CREW CALLER HOBOKEN DIV",
+      "value": "1800-537-1169"
+   },
+   {
+      "key": "CREW CALLER ENGINEER DESK",
+      "value": "201-246-2965"
+   },
+   {
+      "key": "CUSTOMER SERVICE PHILA. AMTRAK",
+      "value": "215-349-2270"
+   },
+   {
+      "key": "CUSTOMER SERVICE HOBOKEN",
+      "value": "201-714-2703"
+   },
+   {
+      "key": "CUSTOMER SERVICE NEWARK PENN STATION",
+      "value": "973-491-8791"
+   },
+   {
+      "key": "CUSTOMER SERVICE NYPS",
+      "value": "212-502-8030"
+   },
+   {
+      "key": "CUSTOMER SERVICE SECAUCUS",
+      "value": "201-239-6946"
+   },
+   {
+      "key": "HOBOKEN CONTROL CENTER",
+      "value": "201-714-2808"
+   },
+   {
+      "key": "HOBOKEN CONTROL CENTER OTHER",
+      "value": "201-714-2807"
+   },
+   {
+      "key": "HOBOKEN YARD MASTER",
+      "value": "201-714-2938"
+   },
+   {
+      "key": "MECHANICAL DESK HOBO DIV",
+      "value": "201-246-2729"
+   },
+   {
+      "key": "MECHANICAL NYPS",
+      "value": "973-491-8935"
+   },
+   {
+      "key": "MECHANICAL DESK NEWARK DIV",
+      "value": "201-246-2630"
+   },
+   {
+      "key": "METRO NORTH DISPATCHER",
+      "value": "212-340-2050"
+   },
+   {
+      "key": "M&E DISPATCHER",
+      "value": "201-246-2772"
+   },
+   {
+      "key": "MAIN LINE DISPATCHER",
+      "value": "201-246-2770"
+   },
+   {
+      "key": "MMC YARDMASTER",
+      "value": "201-955-5895"
+   },
+   {
+      "key": "MORRISVILLE YARDMASTER",
+      "value": "215-337-6160"
+   },
+   {
+      "key": "NY SUSQUEHANNA RR",
+      "value": "607-547-2555"
+   },
+   {
+      "key": "NORTH JERSEY COASTLINE",
+      "value": "201-246-2783"
+   },
+   {
+      "key": "NORFOLK SOUTHERN CHIEF DISP",
+      "value": "609-231-2302"
+   },
+   {
+      "key": "NY CUSTOMER COMMUNICATIONS",
+      "value": "212-502-8073"
+   },
+   {
+      "key": "NY CUSTOMER COMMUNICATIONS SECOND NUMBER",
+      "value": "212-502-8072"
+   },
+   {
+      "key": "PSCC DISPATCHER",
+      "value": "212-630-7492"
+   },
+   {
+      "key": "PSCC DISPATCHER OTHER NUMBER",
+      "value": "212-630-6288"
+   },
+   {
+      "key": "Q TOWER DISPATCHER",
+      "value": "212-630-7763"
+   },
+   {
+      "key": "RESPONSE CENTER",
+      "value": "973-491-8779"
+   },
+   {
+      "key": "RARITAN VALLEY LINE DISPATCHER",
+      "value": "201-246-2786"
+   },
+   {
+      "key": "RARITAN VALLEY ENGINE HOUSE",
+      "value": "908-575-3116"
+   },
+   {
+      "key": "R TOWER DISPATCHER",
+      "value": "212-630-7349"
+   },
+   {
+      "key": "SECTION B DISPATCHER",
+      "value": "212-630-7471"
+   },
+   {
+      "key": "SECTION A AMTRAK DISPATCHER",
+      "value": "212-630-7472"
+   },
+   {
+      "key": "TERMINAL DISPATCHER",
+      "value": "201-246-2840"
+   },
+   {
+      "key": "TOC NYPS",
+      "value": "212-502-8015"
+   },
+   {
+      "key": "TOC NYPS OTHER PHONE",
+      "value": "212-502-8031"
+   },
+   {
+      "key": "TOC NYPS OTHER PHONE NUMBER 3",
+      "value": "212-502-8038"
+   },
+   {
+      "key": "WEST END SSYD",
+      "value": "212-630-7662"
+   },
+   {
+      "key": "40 OFFICE NY",
+      "value": "212-630-7494"
+   }
+]
+}

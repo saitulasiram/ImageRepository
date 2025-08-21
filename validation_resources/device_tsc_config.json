@@ -1,0 +1,29 @@
+{
+  "version": "20250620",
+  "devices": [
+    {
+      "serial": "24255524206129",
+      "deviceTsc": "01VP-H--CLOUD-09506"
+    },
+    {
+      "serial": "24255524206202",
+      "deviceTsc": "01VP-H--CLOUD-09507"
+    },
+    {
+      "serial": "24299524207966",
+      "deviceTsc": "01VP-H--CLOUD-09508"
+    },
+    {
+      "serial": "23045522504397",
+      "deviceTsc": "01VP-H--CLOUD-09506"
+    }
+  ],
+  "defaults": [
+    {
+      "CATEGORY_MVD_RAIL": "01VP-H--CLOUD-09506",
+      "CATEGORY_MVD_BUS": "01VP-H--CLOUD-09507",
+      "CATEGORY_MID": "01VP-H--CLOUD-09508",
+      "CATEGORY_ADMIN": "01VP-H--CLOUD-09509"
+    }
+  ]
+}

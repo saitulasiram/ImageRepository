@@ -1,0 +1,45 @@
+{
+  "Version": "14.0",
+  "mvifaqs": [
+    {
+      "Q": "What kind of battery life can I get with PD20 devices?",
+      "A": "<p>Tests have shown that the battery on the device lasts approximately 10000 continuous taps. The battery life on the android device varies depending on the model, the application, the brightness, etc.</p>"
+    },
+    {
+      "Q": "How long does it take to charge a device fully?",
+      "A": "<p>Since the PD20 have pass-through charging, the time it takes to charge varies depending on the android version since different Android products have various battery capacities.</p>"
+    },
+    {
+      "Q": "Can you charge both the android device as well as the PD20  at the same time?",
+      "A": "<p>Yes, we can charge at the same time with pass-through charging. Plugging into the wall or the travel charger while the PD20 with the android device married, the unit will be charged simultaneously.</p>"
+    },
+    {
+      "Q": "Can PD20 and android device share power?",
+      "A": "<p>Yes, when the MVI APP is in use the PD20 will be charged from the android device. Alternatively, if the android device&rsquo;s Low Power mode is turned on and the MVI APP is in use, the PD20 will begin to charge from the android device battery.</p> <p><strong>How to turn on android device Low Power Mode:&nbsp;</strong>From the android device Home Screen click Settings &gt; Battery &gt; Toggle on Low Power Mode</p>"
+    },
+    {
+      "Q": "How can I view the battery life on the PD20?",
+      "A": "<p>Launch the MVI APP from the android device and navigate to scan screen, and wake the PD20 device up by pressing the button on the bottom.</p>"
+    },
+    {
+      "Q": "The MVI APP and PD20 is unresponsive and seems to be dead?",
+      "A": "<p>The PD20 is designed to go into sleep mode after 90 minutes of inactivity. To wake the Sled, press the scan button and listen for the beep.</p>"
+    },
+    {
+      "Q": "What does Initializing on the MVI APP mean?",
+      "A": "<p>The MVI APP is attempting to make a connection between the PD20 and the android device to begin Ticket Validation with the MVI APP.</p> <li>Press the Button on the PD20 device and listen for the beep</li> <li>Launch the MVI APP</li> <li>Select Ticket Validation</li> <li>Set up the Run Parameters and click Start Run</li> <li>Initializing will show briefly</li> <li>The app will resolve to the Validation Details screen</li> </ol>"
+    },
+    {
+      "Q": "What if Initializing takes too long, or the MVI APP seems frozen?",
+      "A": "<p>Press the Scan Button on the Sled and listen for the beep from the Sled and click Start Run again, which should resolve you to the Validation Details screen.</p>"
+    },
+    {
+      "Q": "The MVI APP shows a popup that states Device Connectivity?",
+      "A": "<p>When safety permits. Use the following steps to troubleshoot the device.</p> <li>Check the status of the PD20 battery from the MVI APP</li> <li>Force close the MVI APP <li>Press the  home button on the device</li> <li>Double click the home button on the device to view the running apps</li> <li>Swipe upwards on the open screens to fully close out running apps</li> <li>Reopen the MVI APP,and sign in to begin the tour</li> </li> </ol>"
+    },
+    {
+      "Q": "How do conductors validate my mobile ticket(s)/ pass once it is active and displaying the barcode?",
+      "A": "<p>Conductors may visually inspect the activated ticket(s)/pass or scan the barcode. NJ TRANSIT asks that you always have your mobile device ready to display your mobile ticket(s)/ pass for verification and validation during the fare collection process.</p> "
+    }
+  ]
+}
