@@ -1,5 +1,5 @@
 {
-  "version": "20250620",
+  "version": "20250621",
   "devices": [
     {
       "serial": "24255524206129",
@@ -26,4 +26,5 @@
       "CATEGORY_ADMIN": "01VP-H--CLOUD-09509"
     }
   ]
+
 }
