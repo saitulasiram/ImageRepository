@@ -1,5 +1,5 @@
 {
-  "Version": "14.0",
+  "Version": "16.0",
   "mvifaqs": [
     {
       "Q": "What kind of battery life can I get with PD20 devices?",
@@ -42,4 +42,5 @@
       "A": "<p>Conductors may visually inspect the activated ticket(s)/pass or scan the barcode. NJ TRANSIT asks that you always have your mobile device ready to display your mobile ticket(s)/ pass for verification and validation during the fare collection process.</p> "
     }
   ]
+
 }
