@@ -8,7 +8,7 @@
     "mvd_app_train_number": "20250519",
     "employee_data": "20250819"
   },
-  "emp_secret_key": "(1@MviAppSecretKey@#)-MID-MVD$%$",
+  "emp_secret_key": "@M(1viAppSecretKey@#)-MID-MVD$%$",
   "configurations": [
     {
       "sub_version": "20230620",
@@ -2203,6 +2203,7 @@
   "farecardPassbackDurationMinutes": 15
 
 }
+
 
 
 
