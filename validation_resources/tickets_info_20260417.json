@@ -1,0 +1,1553 @@
+{
+  "version": "20260417",
+  "data": [
+    {
+      "id": 51500,
+      "name": "Superbowl Web",
+      "discount_type": "Super Pass",
+      "rider_class": "Adult",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 50201,
+      "name": "Beach Adult",
+      "discount_type": "Beach (NYPB)",
+      "rider_class": "Adult",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 50202,
+      "name": "Beach Child",
+      "discount_type": "Beach (NYPB)",
+      "rider_class": "Child",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 50203,
+      "name": "Beach Senior",
+      "discount_type": "Beach (NYPB)",
+      "rider_class": "Senior",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 50204,
+      "name": "Beach Disabled",
+      "discount_type": "Beach (NYPB)",
+      "rider_class": "Disabled",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 50205,
+      "name": "Beach Student",
+      "discount_type": "Beach (NYPB)",
+      "rider_class": "Student",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 50301,
+      "name": "Beach Adult",
+      "discount_type": "Beach (NWKB)",
+      "rider_class": "Adult",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 50302,
+      "name": "Beach Child",
+      "discount_type": "Beach (NWKB)",
+      "rider_class": "Child",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 50303,
+      "name": "Beach Senior",
+      "discount_type": "Beach (NWKB)",
+      "rider_class": "Senior",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 50304,
+      "name": "Beach Disabled",
+      "discount_type": "Beach (NWKB)",
+      "rider_class": "Disabled",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 50305,
+      "name": "Beach Student",
+      "discount_type": "Beach (NWKB)",
+      "rider_class": "Student",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 50401,
+      "name": "Beach Adult",
+      "discount_type": "Beach (HOBB)",
+      "rider_class": "Adult",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 50402,
+      "name": "Beach Child",
+      "discount_type": "Beach (HOBB)",
+      "rider_class": "Child",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 50403,
+      "name": "Beach Senior",
+      "discount_type": "Beach (HOBB)",
+      "rider_class": "Senior",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 50404,
+      "name": "Beach Disabled",
+      "discount_type": "Beach (HOBB)",
+      "rider_class": "Disabled",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 50405,
+      "name": "Beach Student",
+      "discount_type": "Beach (HOBB)",
+      "rider_class": "Student",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 51300,
+      "name": "Special Promo rail",
+      "discount_type": "Special Promo",
+      "rider_class": "Adult",
+      "zonebased": 0,
+      "comm_ticket": 1,
+      "rule_set": 1
+    },
+    {
+      "id": 51400,
+      "name": "Special Promo bus",
+      "discount_type": "Special Promo",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 31001,
+      "name": "One way adult(NWLR)",
+      "discount_type": "One way(NWLR)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 31002,
+      "name": "One way child(NWLR)",
+      "discount_type": "One way(NWLR)",
+      "rider_class": "Child",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 31103,
+      "name": "One way off peak senior(NWLR)",
+      "discount_type": "One way off peak(NWLR)",
+      "rider_class": "Senior/Disabled\n",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 31104,
+      "name": "One way off peak disabled(NWLR)",
+      "discount_type": "One way off peak(NWLR)",
+      "rider_class": "Disabled",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 31110,
+      "name": "One way Off peak senior/disabled(NWLR)",
+      "discount_type": "One way off peak(NWLR)",
+      "rider_class": "Senior/Disabled",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 31201,
+      "name": "One way with transfer adult(NWLR)",
+      "discount_type": "One way with transfer(NWLR)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 31202,
+      "name": "One way with transfer child(NWLR)",
+      "discount_type": "One way with transfer(NWLR)",
+      "rider_class": "Child",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 31203,
+      "name": "One way with transfer senior(NWLR)",
+      "discount_type": "One way with transfer(NWLR)",
+      "rider_class": "Senior",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 31204,
+      "name": "One way with transfer disabled(NWLR)",
+      "discount_type": "One way with transfer(NWLR)",
+      "rider_class": "Disabled",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 31210,
+      "name": "One way with transfer senior/disabled(NWLR)",
+      "discount_type": "One way with transfer(NWLR)",
+      "rider_class": "Senior/Disabled",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 32001,
+      "name": "Round trip adult(NWLR)",
+      "discount_type": "Round trip(NWLR)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 32002,
+      "name": "Round trip child(NWLR)",
+      "discount_type": "Round trip(NWLR)",
+      "rider_class": "Child",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 32003,
+      "name": "Round trip senior(NWLR)",
+      "discount_type": "Round trip(NWLR)",
+      "rider_class": "Senior",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 32004,
+      "name": "Round trip disabled(NWLR)",
+      "discount_type": "Round trip(NWLR)",
+      "rider_class": "Disabled",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 32010,
+      "name": "Round trip senior/disabled(NWLR)",
+      "discount_type": "Round trip(NWLR)",
+      "rider_class": "Senior/Disabled",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 33001,
+      "name": "Ten trip discount adult(NWLR)",
+      "discount_type": "Ten trip discount(NWLR)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 1
+    },
+    {
+      "id": 33005,
+      "name": "Ten trip discount student(NWLR)",
+      "discount_type": "Ten trip discount(NWLR)",
+      "rider_class": "Student",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 1
+    },
+    {
+      "id": 35301,
+      "name": "Continuing trip adult(NWLR)",
+      "discount_type": "Continuing trip(NWLR)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 35302,
+      "name": "Continuing trip child(NWLR)",
+      "discount_type": "Continuing trip(NWLR)",
+      "rider_class": "Child",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 35303,
+      "name": "Continuing trip senior(NWLR)",
+      "discount_type": "Continuing trip(NWLR)",
+      "rider_class": "Senior",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 35304,
+      "name": "Continuing trip disabled(NWLR)",
+      "discount_type": "Continuing trip(NWLR)",
+      "rider_class": "Disabled",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 35310,
+      "name": "Continuing trip senior/disabled(NWLR)",
+      "discount_type": "Continuing trip(NWLR)",
+      "rider_class": "Senior/Disabled",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 35001,
+      "name": "FDR fare adult(NWLR)",
+      "discount_type": "FDR Fare(NWLR)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 33105,
+      "name": "Ten trip transfer student(NWLR)",
+      "discount_type": "Ten trip transfer(NWLR)",
+      "rider_class": "Student",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 34701,
+      "name": "Monthly adult(NWLR)",
+      "discount_type": "Monthly(NWLR)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 1,
+      "rule_set": 1
+    },
+    {
+      "id": 33201,
+      "name": "Ten trip adult(NWLR)",
+      "discount_type": "Ten trip(NWLR)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 81001,
+      "name": "One way adult(HBLR)",
+      "discount_type": "One way(HBLR)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 81002,
+      "name": "One way child(HBLR)",
+      "discount_type": "One way(HBLR)",
+      "rider_class": "Child",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 81103,
+      "name": "One way off peak senior(HBLR)",
+      "discount_type": "One way off peak(HBLR)",
+      "rider_class": "Senior",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 81104,
+      "name": "One way off peak disabled(HBLR)",
+      "discount_type": "One way off peak(HBLR)",
+      "rider_class": "Disabled",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 81110,
+      "name": "One way Off peak senior/disabled(HBLR)",
+      "discount_type": "One way off peak(HBLR)",
+      "rider_class": "Senior/Disabled",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 81201,
+      "name": "One way with transfer adult(HBLR)",
+      "discount_type": "One way with transfer(HBLR)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 81202,
+      "name": "One way with transfer child(HBLR)",
+      "discount_type": "One way with transfer(HBLR)",
+      "rider_class": "Child",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 81203,
+      "name": "One way with transfer senior(HBLR)",
+      "discount_type": "One way with transfer(HBLR)",
+      "rider_class": "Senior",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 81204,
+      "name": "One way with transfer disabled(HBLR)",
+      "discount_type": "One way with transfer(HBLR)",
+      "rider_class": "Disabled",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 81210,
+      "name": "One way with transfer senior/disabled(HBLR)",
+      "discount_type": "One way with transfer(HBLR)",
+      "rider_class": "Senior/Disabled",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 82001,
+      "name": "Round trip adult(HBLR)",
+      "discount_type": "Round trip(HBLR)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 82002,
+      "name": "Round trip child(HBLR)",
+      "discount_type": "Round trip(HBLR)",
+      "rider_class": "Child",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 83001,
+      "name": "Ten trip discount adult(HBLR)",
+      "discount_type": "Ten trip discount(HBLR)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 1
+    },
+    {
+      "id": 83201,
+      "name": "Ten trip adult(HBLR)",
+      "discount_type": "Ten trip(HBLR)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 84701,
+      "name": "Monthly adult(HBLR)",
+      "discount_type": "Monthly(HBLR)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 1,
+      "rule_set": 1
+    },
+    {
+      "id": 85001,
+      "name": "FDR fare adult(HBLR)",
+      "discount_type": "FDR Fare(HBLR)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 90101,
+      "name": "One way adult(River Line)",
+      "discount_type": "One Way(River Line)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 90201,
+      "name": "Monthly Zone 1 Adult(River Line)",
+      "discount_type": "Monthly Pass Zone 1(River Line)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 1,
+      "rule_set": 1
+    },
+    {
+      "id": 90301,
+      "name": "Monthly Zone 2 Adult(River Line)",
+      "discount_type": "Monthly Pass Zone 2(River Line)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 1,
+      "rule_set": 1
+    },
+    {
+      "id": 91001,
+      "name": "One way adult(River Line)",
+      "discount_type": "One way(River Line)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 91002,
+      "name": "One way child(River Line)",
+      "discount_type": "One way(River Line)",
+      "rider_class": "Child",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 91003,
+      "name": "One way senior(River Line)",
+      "discount_type": "One way(River Line)",
+      "rider_class": "Senior/Disabled",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 91004,
+      "name": "One way disabled(River Line)",
+      "discount_type": "One way(River Line)",
+      "rider_class": "Disabled",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 91201,
+      "name": "One way with transfer adult(River Line)",
+      "discount_type": "One way with transfer(River Line)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 91202,
+      "name": "One way with transfer child(River Line)",
+      "discount_type": "One way with transfer(River Line)",
+      "rider_class": "Child",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 91203,
+      "name": "One way with transfer senior(River Line)",
+      "discount_type": "One way with transfer(River Line)",
+      "rider_class": "Senior",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 91204,
+      "name": "One way with transfer disabled(River Line)",
+      "discount_type": "One way with transfer(River Line)",
+      "rider_class": "Disabled",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 93001,
+      "name": "Ten trip discount adult(River Line)",
+      "discount_type": "Ten trip(River Line)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 1
+    },
+    {
+      "id": 93005,
+      "name": "Ten trip discount student(River Line)",
+      "discount_type": "Ten trip(River Line)",
+      "rider_class": "Student",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 1
+    },
+    {
+      "id": 93105,
+      "name": "Ten trip transfer student(River Line)",
+      "discount_type": "Ten trip(River Line)",
+      "rider_class": "Student",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 94701,
+      "name": "Monthly adult(River Line)",
+      "discount_type": "Monthly(River Line)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 1,
+      "rule_set": 1
+    },
+    {
+      "id": 95001,
+      "name": "FDR Fare adult(River Line)",
+      "discount_type": "FDR Fare(River Line)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 95101,
+      "name": "Monthly sticker adult(River Line)",
+      "discount_type": "Monthly(River Line)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 1,
+      "rule_set": 1
+    },
+    {
+      "id": 95301,
+      "name": "Continuing trip adult(River Line)",
+      "discount_type": "Continuing trip(River Line)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 95302,
+      "name": "Continuing trip child(River Line)",
+      "discount_type": "Continuing trip(River Line)",
+      "rider_class": "Child",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 95303,
+      "name": "Continuing trip senior(River Line)",
+      "discount_type": "Continuing trip(River Line)",
+      "rider_class": "Senior",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 95304,
+      "name": "Continuing trip disabled(River Line)",
+      "discount_type": "Continuing trip(River Line)",
+      "rider_class": "Disabled",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 11001,
+      "name": "One way adult(RAIL)",
+      "discount_type": "One way(RAIL)",
+      "rider_class": "Adult",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 11002,
+      "name": "One way child(RAIL)",
+      "discount_type": "One way(RAIL)",
+      "rider_class": "Child",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 11010,
+      "name": "One way senior/disabled(RAIL)",
+      "discount_type": "One way(RAIL)",
+      "rider_class": "Senior/Disabled",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 12001,
+      "name": "Round trip adult(RAIL)",
+      "discount_type": "Round trip(RAIL)",
+      "rider_class": "Adult",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 12002,
+      "name": "Round trip child(RAIL)",
+      "discount_type": "Round trip(RAIL)",
+      "rider_class": "Child",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 12003,
+      "name": "Round trip senior(RAIL)",
+      "discount_type": "Round trip(RAIL)",
+      "rider_class": "Senior",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 12004,
+      "name": "Round trip disabled(RAIL)",
+      "discount_type": "Round trip(RAIL)",
+      "rider_class": "Disabled",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 12010,
+      "name": "Round trip senior/disabled(RAIL)",
+      "discount_type": "Round trip(RAIL)",
+      "rider_class": "Senior/Disabled",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 12101,
+      "name": "ORT adult(RAIL)",
+      "discount_type": "ORT(RAIL)",
+      "rider_class": "Adult",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 12102,
+      "name": "ORT child(RAIL)",
+      "discount_type": "ORT(RAIL)",
+      "rider_class": "Child",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 12401,
+      "name": "Round trip(G) adult(RAIL)",
+      "discount_type": "Round trip(G)(RAIL)",
+      "rider_class": "Adult",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 12402,
+      "name": "Round trip(G) child(RAIL)",
+      "discount_type": "Round trip(G)(RAIL)",
+      "rider_class": "Child",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 13201,
+      "name": "10-Trip adult(RAIL)",
+      "discount_type": "10-Trip(RAIL)",
+      "rider_class": "Adult",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 14101,
+      "name": "ODX adult(RAIL)",
+      "discount_type": "ODX(RAIL)",
+      "rider_class": "Adult",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 14102,
+      "name": "ODX child(RAIL)",
+      "discount_type": "ODX(RAIL)",
+      "rider_class": "Child",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 14103,
+      "name": "ODX senior(RAIL)",
+      "discount_type": "ODX(RAIL)",
+      "rider_class": "Senior",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 14104,
+      "name": "ODX disabled(RAIL)",
+      "discount_type": "ODX(RAIL)",
+      "rider_class": "Disabled",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 14110,
+      "name": "ODX disabled(RAIL)",
+      "discount_type": "ODX(RAIL)",
+      "rider_class": "Senior/Disabled",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 14501,
+      "name": "Weekly pass(RAIL)",
+      "discount_type": "Weekly(RAIL)",
+      "rider_class": "Adult",
+      "zonebased": 0,
+      "comm_ticket": 1,
+      "rule_set": 1
+    },
+    {
+      "id": 14701,
+      "name": "Monthly adult(RAIL)",
+      "discount_type": "Monthly(RAIL)",
+      "rider_class": "Adult",
+      "zonebased": 0,
+      "comm_ticket": 1,
+      "rule_set": 1
+    },
+    {
+      "id": 14705,
+      "name": "Monthly student(RAIL)",
+      "discount_type": "Monthly(RAIL)",
+      "rider_class": "Student",
+      "zonebased": 0,
+      "comm_ticket": 1,
+      "rule_set": 1
+    },
+    {
+      "id": 14805,
+      "name": "Monthly Special Student(RAIL)",
+      "discount_type": "Monthly Special(RAIL)",
+      "rider_class": "Student",
+      "zonebased": 0,
+      "comm_ticket": 1,
+      "rule_set": 1
+    },
+    {
+      "id": 21001,
+      "name": "One way adult(BUS)",
+      "discount_type": "One way(BUS)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 21002,
+      "name": "One way child(BUS)",
+      "discount_type": "One way(BUS)",
+      "rider_class": "Child",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 21103,
+      "name": "One way off peak senior(BUS)",
+      "discount_type": "One way off peak(BUS)",
+      "rider_class": "Senior",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 21104,
+      "name": "One way off peak disabled(BUS)",
+      "discount_type": "One way off peak(BUS)",
+      "rider_class": "Disabled",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 21110,
+      "name": "One way Off peak senior/disabled(BUS)",
+      "discount_type": "One way off peak(BUS)",
+      "rider_class": "Senior/Disabled",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 22001,
+      "name": "Round trip child(BUS)",
+      "discount_type": "Round trip(BUS)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 22002,
+      "name": "Round trip child(BUS)",
+      "discount_type": "Round trip(BUS)",
+      "rider_class": "Child",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 22201,
+      "name": "RTD adult(BUS)",
+      "discount_type": "RTD(BUS)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 22301,
+      "name": "RTD EXC adult(BUS)",
+      "discount_type": "RTD EXC(BUS)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 23001,
+      "name": "Discounted 10 trip adult(BUS)",
+      "discount_type": "Discounted 10 trip(BUS)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 1
+    },
+    {
+      "id": 23005,
+      "name": "Discounted 10 trip student(BUS)",
+      "discount_type": "Discounted 10 trip(BUS)",
+      "rider_class": "Student",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 1
+    },
+    {
+      "id": 23105,
+      "name": "10 Trip transfer student(BUS)",
+      "discount_type": "10 Trip transfer(BUS)",
+      "rider_class": "Student",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 24101,
+      "name": "ODX adult(BUS)",
+      "discount_type": "ODX(BUS)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 24501,
+      "name": "Weekly adult(BUS)",
+      "discount_type": "Weekly(BUS)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 1,
+      "rule_set": 1
+    },
+    {
+      "id": 24701,
+      "name": "Monthly adult(BUS)",
+      "discount_type": "Monthly(BUS)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 1,
+      "rule_set": 1
+    },
+    {
+      "id": 25101,
+      "name": "Monthly sticker adult(BUS)",
+      "discount_type": "Monthly sticker(BUS)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 1,
+      "rule_set": 1
+    },
+    {
+      "id": 25801,
+      "name": "Monthly preprinted adult(BUS)",
+      "discount_type": "Monthly preprinted(BUS)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 1,
+      "rule_set": 1
+    },
+    {
+      "id": 35201,
+      "name": "Underground Fare adult(NWLR)",
+      "discount_type": "Underground Fare(NWLR)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 44000,
+      "name": "Daily parking",
+      "discount_type": "Daily parking",
+      "rider_class": "",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 44700,
+      "name": "Monthly parking",
+      "discount_type": "Monthly parking",
+      "rider_class": "",
+      "zonebased": 0,
+      "comm_ticket": 1,
+      "rule_set": 1
+    },
+    {
+      "id": 51000,
+      "name": "Great adventure theme park",
+      "discount_type": "Great adventure theme park",
+      "rider_class": "",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 51100,
+      "name": "Great adventure water park",
+      "discount_type": "Great adventure water park",
+      "rider_class": "",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 51201,
+      "name": "Monmouth park race track(Adult)",
+      "discount_type": "Monmouth park race track",
+      "rider_class": "Adult",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 51210,
+      "name": "Monmouth park race track(Senior/Disabled)",
+      "discount_type": "Monmouth park race track",
+      "rider_class": "Senior/Disabled",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 51202,
+      "name": "Monmouth park race track(Child)",
+      "discount_type": "Monmouth park race track",
+      "rider_class": "Child",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 61800,
+      "name": "One way full fare",
+      "discount_type": "One way full fare",
+      "rider_class": "Adult",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 61900,
+      "name": "One way half fare",
+      "discount_type": "One way half fare",
+      "rider_class": "Child/Senior/Disabled",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 91210,
+      "name": "One way with transfer senior/disabled(River Line)",
+      "discount_type": "One way with transfer(River Line)",
+      "rider_class": "Senior/Disabled",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 91010,
+      "name": "One way senior/disabled(River Line)",
+      "discount_type": "One way(River Line)",
+      "rider_class": "Senior/Disabled",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 95310,
+      "name": "Continuing trip senior/disabled(River Line)",
+      "discount_type": "Continuing trip(River Line)",
+      "rider_class": "Senior/Disabled",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 101001,
+      "name": "One way adult(Ferry)",
+      "discount_type": "One way(Ferry)",
+      "rider_class": "Adult",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 101002,
+      "name": "One way child(Ferry)",
+      "discount_type": "One way(Ferry)",
+      "rider_class": "Child",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 101009,
+      "name": "One way bike(Ferry)",
+      "discount_type": "One way(Ferry)",
+      "rider_class": "Bike",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 101010,
+      "name": "One way senior/disabled(Ferry)",
+      "discount_type": "One way(Ferry)",
+      "rider_class": "Senior/Disabled",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 101015,
+      "name": "One way courtesy(Ferry)",
+      "discount_type": "One way(Ferry)",
+      "rider_class": "Courtesy",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 101401,
+      "name": "One way special event adult(Ferry)",
+      "discount_type": "One way special event(Ferry)",
+      "rider_class": "Adult",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 101501,
+      "name": "One way weekend adult(Ferry)",
+      "discount_type": "One way weekend(Ferry)",
+      "rider_class": "Adult",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 103001,
+      "name": "10 Trip Philadelphia adult(Ferry)",
+      "discount_type": "10 Trip Philadelphia(Ferry)",
+      "rider_class": "Adult",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 103201,
+      "name": "10 Trip adult(Ferry)",
+      "discount_type": "10 Trip(Ferry)",
+      "rider_class": "Adult",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 103301,
+      "name": "20 Trip adult(Ferry)",
+      "discount_type": "10 Trip(Ferry)",
+      "rider_class": "Adult",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 103401,
+      "name": "30 Trip adult(Ferry)",
+      "discount_type": "10 Trip(Ferry)",
+      "rider_class": "Adult",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 103601,
+      "name": "40 Trip adult(Ferry)",
+      "discount_type": "10 Trip(Ferry)",
+      "rider_class": "Adult",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 103214,
+      "name": "10 Trip corp(Ferry)",
+      "discount_type": "10 Trip(Ferry)",
+      "rider_class": "CORP",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 104501,
+      "name": "Weekly pass adult(Ferry)",
+      "discount_type": "Weekly pass(Ferry)",
+      "rider_class": "Adult",
+      "zonebased": 0,
+      "comm_ticket": 1,
+      "rule_set": 1
+    },
+    {
+      "id": 104701,
+      "name": "Monthly pass adult(Ferry)",
+      "discount_type": "Monthly pass(Ferry)",
+      "rider_class": "Adult",
+      "zonebased": 0,
+      "comm_ticket": 1,
+      "rule_set": 1
+    },
+    {
+      "id": 104705,
+      "name": "Monthly pass student(Ferry)",
+      "discount_type": "Monthly pass(Ferry)",
+      "rider_class": "Student",
+      "zonebased": 0,
+      "comm_ticket": 1,
+      "rule_set": 1
+    },
+    {
+      "id": 104709,
+      "name": "Monthly pass bike(Ferry)",
+      "discount_type": "Monthly pass(Ferry)",
+      "rider_class": "Bike",
+      "zonebased": 0,
+      "comm_ticket": 1,
+      "rule_set": 1
+    },
+    {
+      "id": 104716,
+      "name": "Monthly pass res(Ferry)",
+      "discount_type": "Monthly pass(Ferry)",
+      "rider_class": "RES",
+      "zonebased": 0,
+      "comm_ticket": 1,
+      "rule_set": 1
+    },
+    {
+      "id": 104714,
+      "name": "Monthly pass corp(Ferry)",
+      "discount_type": "Monthly pass(Ferry)",
+      "rider_class": "CORP",
+      "zonebased": 0,
+      "comm_ticket": 1,
+      "rule_set": 1
+    },
+    {
+      "id": 15001,
+      "name": "Monthly 1 Zone Adult(RAIL)",
+      "discount_type": "Monthly 1 Zone(RAIL)",
+      "rider_class": "ADULT",
+      "zonebased": 0,
+      "comm_ticket": 1,
+      "rule_set": 1
+    },
+    {
+      "id": 15002,
+      "name": "Monthly 1 Zone Child(RAIL)",
+      "discount_type": "Monthly 1 Zone(RAIL)",
+      "rider_class": "CHILD",
+      "zonebased": 0,
+      "comm_ticket": 1,
+      "rule_set": 1
+    },
+    {
+      "id": 15003,
+      "name": "Monthly 1 Zone Senior(RAIL)",
+      "discount_type": "Monthly 1 Zone(RAIL)",
+      "rider_class": "SENIOR",
+      "zonebased": 0,
+      "comm_ticket": 1,
+      "rule_set": 1
+    },
+    {
+      "id": 15004,
+      "name": "Monthly 1 Zone Disabled(RAIL)",
+      "discount_type": "Monthly 1 Zone(RAIL)",
+      "rider_class": "DISABLED",
+      "zonebased": 0,
+      "comm_ticket": 1,
+      "rule_set": 1
+    },
+    {
+      "id": 15005,
+      "name": "Monthly 1 Zone Student(RAIL)",
+      "discount_type": "Monthly 1 Zone(RAIL)",
+      "rider_class": "STUDENT",
+      "zonebased": 0,
+      "comm_ticket": 1,
+      "rule_set": 1
+    },
+    {
+      "id": 93201,
+      "name": "Ten trip adult(Riverline)",
+      "discount_type": "Ten trip(Riverline)",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 11003,
+      "name": "One way senior(RAIL)",
+      "discount_type": "One way(RAIL)",
+      "rider_class": "Senior",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 11101,
+      "name": "One way off peak adult(RAIL)",
+      "discount_type": "One way(RAIL)",
+      "rider_class": "Adult",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 11201,
+      "name": "One way with transfer adult(RAIL)",
+      "discount_type": "One way(RAIL)",
+      "rider_class": "Adult",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 11004,
+      "name": "One way disabled(RAIL)",
+      "discount_type": "One way(RAIL)",
+      "rider_class": "Disabled",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 101014,
+      "name": "One way CORP(FERRY)",
+      "discount_type": "One way(FERRY)",
+      "rider_class": "CORP",
+      "zonebased": 0,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 24702,
+      "name": "Monthly Youth",
+      "discount_type": "Monthly",
+      "rider_class": "Youth",
+      "zonebased": 1,
+      "comm_ticket": 1,
+      "rule_set": 1
+    },
+    {
+      "id": 24705,
+      "name": "Monthly student(BUS)",
+      "discount_type": "Monthly(BUS)",
+      "rider_class": "Student",
+      "zonebased": 1,
+      "comm_ticket": 1,
+      "rule_set": 1
+    },
+    {
+      "id": 84705,
+      "name": "Monthly student(HBLR)",
+      "discount_type": "Monthly(HBLR)",
+      "rider_class": "Student",
+      "zonebased": 1,
+      "comm_ticket": 1,
+      "rule_set": 1
+    },
+    {
+      "id": 34705,
+      "name": "Monthly student(NWLR)",
+      "discount_type": "Monthly(NWLR)",
+      "rider_class": "Student",
+      "zonebased": 1,
+      "comm_ticket": 1,
+      "rule_set": 1
+    },
+    {
+      "id": 94705,
+      "name": "Monthly student(Riverline)",
+      "discount_type": "Monthly(Riverline)",
+      "rider_class": "Student",
+      "zonebased": 1,
+      "comm_ticket": 1,
+      "rule_set": 1
+    },
+    {
+      "id": 24805,
+      "name": "Monthly student(BUS)",
+      "discount_type": "Monthly(BUS)",
+      "rider_class": "Student",
+      "zonebased": 1,
+      "comm_ticket": 1,
+      "rule_set": 1
+    },
+    {
+      "id": 83005,
+      "name": "Ten trip discount student(HBLR)",
+      "discount_type": "Ten trip discount(HBLR)",
+      "rider_class": "Student",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 21201,
+      "name": "One way adult transfer bus",
+      "discount_type": "One way (Transfer Bus) ",
+      "rider_class": "Adult",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    },
+    {
+      "id": 23202,
+      "name": "Ten trip child",
+      "discount_type": "Ten trip",
+      "rider_class": "Child",
+      "zonebased": 1,
+      "comm_ticket": 0,
+      "rule_set": 6
+    }
+  ]
+}
